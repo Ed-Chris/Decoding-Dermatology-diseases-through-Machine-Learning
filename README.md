@@ -1,4 +1,4 @@
-# Decoding Erythemato-Squamous Diseases Through Machine Learning
+# Decoding Dermatology Diseases Through Machine Learning
 
 ## Project Overview
 This project aims to leverage machine learning algorithms to enhance the differential diagnosis of erythemato-squamous diseases (ESDs), a group of skin conditions characterized by erythema and scaling. By utilizing various machine learning models, we aim to improve diagnostic accuracy and dermatological outcomes.
