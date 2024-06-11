@@ -11,7 +11,6 @@ This project aims to leverage machine learning algorithms to enhance the differe
 - Analysis
 - Results
 - Limitations and Future Work
-- How to Run the Project
 - Contributors
 - References
 
@@ -82,19 +81,6 @@ The results indicate that the Random Forest model without LDA and Logistic Regre
 - Incorporate larger and more diverse datasets.
 - Explore advanced algorithms like deep learning.
 - Implement real-time diagnostic tools for clinical use.
-
-## How to Run the Project
-1. Clone the Repository:
-git clone <repository_url>
-
-2. Navigate to the Project Directory:
-cd <project_directory>
-
-3. Install the Required Libraries:
-pip install -r requirements.txt
-
-4. Run the Python Script:
-python main.py
 
 ## Contributors
 Yedu Krishnan
